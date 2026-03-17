@@ -3,7 +3,7 @@
 <!-- Contacts -->
 <div align=center>
     <a href="https://twitter.com/agiintstr">
-        <img height=32 src="https://img.shields.io/badge/0x564D43__-1DA1F2?style=for-the-badge&logo=X&logoColor=ffffff">
+        <img height=32 src="https://img.shields.io/badge/agiintstr__-1DA1F2?style=for-the-badge&logo=X&logoColor=ffffff">
     </a>
 </div>
 
